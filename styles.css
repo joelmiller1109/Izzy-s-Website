@@ -1,0 +1,96 @@
+.education {
+  padding-bottom: 3%;
+}
+
+.experience {
+  font-size: 2.5REM;
+  margin-right: 10REM;
+}
+
+.electric {
+  text-align: center;
+  font-size: 3REM;
+  padding: 30px 50px;
+}
+
+.experience {
+  font-size: 3REM;
+  margin-left: 10%;
+}
+
+.indent {
+  padding-left: 20px;
+}
+
+.machine {
+  height: 250px;
+  position: relative;
+  bottom: 360px;
+  left: 70px;
+}
+
+.scroll {
+  height: 200px;
+  position: relative;
+  left: 90px;
+  bottom: 100px;
+}
+
+.security {
+  height: 250px;
+  position: relative;
+  bottom: 260px;
+  left: 500px;
+}
+
+.satilite {
+  height: 250px;
+  position: relative;
+  bottom: 270px;
+  left: 130px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  font-family: 'Merriweather', serif;
+}
+
+h3 {
+  color: #120078;
+  font-size: 1.2REM;
+  font-family: 'Merriweather', serif;
+}
+
+li {
+  margin-left: 25REM;
+  padding: 1REM;
+}
+
+ol {
+  color: #ff4646;
+  font-size: 1.2REM;
+  padding: 1%;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4REM;
+}
+
+div {
+  padding: 1rem;
+  text-align: center;
+}
+
+body {
+  background-color: #AEE6E6;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
